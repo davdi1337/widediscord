@@ -10,6 +10,6 @@ METHOD 1: How to apply this theme? (BetterDiscord)
 - Click Update, Save and you done
 
 METHOD 2: Download the theme file
-- Download the theme file [Click here to download](https://drive.google.com/u/0/uc?id=1WN0unq8tiRbTWQ5m6iHx8sWGgBgu_IFa&export=download)
+- Download the theme file from [HERE](https://drive.google.com/u/0/uc?id=1WN0unq8tiRbTWQ5m6iHx8sWGgBgu_IFa&export=download)
 - Copy and paste to betterdiscord theme library
 - Apply the theme
