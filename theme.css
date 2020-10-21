@@ -132,3 +132,30 @@
     opacity: 1;
     transition: opacity 0.8s;
 }
+
+
+/* SETTINGS WIDTH */
+.contentColumn-2hrIYH {
+    max-width: 1700px!important;
+}
+
+.contentColumnDefault-1VQkGM {
+    padding: 60px 20px 180px!important;
+}
+
+.contentRegion-3nDuYy {
+    flex: 1 1 1900px;
+}
+
+.canceled-nz3kfr.banner-3Kac2g,
+.hero-EvfTTA,
+.sidebarScrollable-1qPI87+.content-1rPSz4,
+.customScroller-26gWhv>div,
+.customColumn-Rb6toI {
+    max-width: 1700px!important;
+}
+
+.notificationSettings-1NQKPR {
+    max-width: 1000px;
+    margin: auto;
+}
