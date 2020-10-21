@@ -1,6 +1,6 @@
 # __WiderDiscord__
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/davdiowo)
-#### This theme makes your discord chat wider with animated smaller left & right side panels. 
+#### This theme makes your discord wider with animated smaller left & right side panels in chat. 
 Contact me on discord if you have any issue: __.davdi#0679__
 
 
