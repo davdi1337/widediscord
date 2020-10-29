@@ -11,6 +11,6 @@ METHOD 1: How to apply this theme? (BetterDiscord)
 - Click Update, Save and you done
 
 METHOD 2: Download the theme file
-- Download the theme file from [HERE](https://github.com/davdi1337/widediscord/releases/download/1.0/widerdiscord.theme.css)
+- Download the theme file from [HERE](https://github.com/davdi1337/widediscord/releases/download/1.1/widerdiscord.theme.css)
 - Copy and paste to betterdiscord theme library
 - Apply the theme
